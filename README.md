@@ -1,4 +1,5 @@
 # CE88 2018 Data Science for Smart Cities 
+[Piazza](https://piazza.com/class/jlb5cnbtbgy3us) [bCourses](https://bcourses.berkeley.edu/courses/1476159)
 
 ### September 10
 - Introduction: Cities as complex urban systems
