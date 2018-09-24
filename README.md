@@ -22,3 +22,15 @@
 [Datahub Minilab 2](http://datahub.berkeley.edu/user-redirect/interact?account=alexeipberkeleyedu&repo=dssc2018&branch=master&path=minilabs/minilab2/minilab2_CensusData.ipynb)
 
 [Homework 2](https://github.com/alexeipberkeleyedu/dssc2018/blob/master/homeworks/CE88_HW2.pdf)
+
+
+### September 24
+- Data acquisition and processing
+- APIs
+
+[Lectures 5&6](https://github.com/alexeipberkeleyedu/dssc2018/blob/master/lectures/CE88_Lecture_5&6.pdf)
+
+[Datahub Minilab 3](http://datahub.berkeley.edu/user-redirect/interact?account=alexeipberkeleyedu&repo=dssc2018&branch=master&path=minilabs/mninlab3/minilab3_mapping_points.ipynb)
+
+[Homework 3](https://github.com/alexeipberkeleyedu/dssc2018/blob/master/homeworks/CE88_HW3.pdf)
+
