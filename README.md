@@ -34,3 +34,13 @@
 
 [Homework 3](https://github.com/alexeipberkeleyedu/dssc2018/blob/master/homeworks/CE88_HW3.pdf)
 
+### October 1
+- Bringing together geo data
+- Modeling principles
+
+[Lectures 7&8](https://github.com/alexeipberkeleyedu/dssc2018/blob/master/lectures/CE88_Lecture_7&8.pdf)
+
+[Datahub Minilab 4 - Geo Intro](http://datahub.berkeley.edu/user-redirect/interact?account=alexeipberkeleyedu&repo=dssc2018&branch=master&path=minilabs/minilab4/Lab4-geo.ipynb)
+
+[Homework 3](https://github.com/alexeipberkeleyedu/dssc2018/blob/master/homeworks/CE88_HW4.pdf)
+
