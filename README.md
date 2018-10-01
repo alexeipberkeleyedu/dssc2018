@@ -42,5 +42,5 @@
 
 [Datahub Minilab 4 - Geo Intro](http://datahub.berkeley.edu/user-redirect/interact?account=alexeipberkeleyedu&repo=dssc2018&branch=master&path=minilabs/minilab4/Lab4-geo.ipynb)
 
-[Homework 3](https://github.com/alexeipberkeleyedu/dssc2018/blob/master/homeworks/CE88_HW4.pdf)
+[Homework 4](https://github.com/alexeipberkeleyedu/dssc2018/blob/master/homeworks/CE88_HW4.pdf)
 
