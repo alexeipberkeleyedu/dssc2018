@@ -42,9 +42,7 @@
 
 [Datahub Minilab 4 - Geo Intro](http://datahub.berkeley.edu/user-redirect/interact?account=alexeipberkeleyedu&repo=dssc2018&branch=master&path=minilabs/minilab4/Lab4-geo.ipynb)
 
-[Datahub Minilab 4 - Travel Times]
-(http://datahub.berkeley.edu/user-redirect/interact?account=alexeipberkeleyedu&repo=dssc2018&branch=master&path=minilabs/minilab4/minilab4_MappingTravelTimes.ipynb
-)
+[Datahub Minilab 4 - Travel Times](http://datahub.berkeley.edu/user-redirect/interact?account=alexeipberkeleyedu&repo=dssc2018&branch=master&path=minilabs/minilab4/minilab4_MappingTravelTimes.ipynb)
 
 [Homework 4](https://github.com/alexeipberkeleyedu/dssc2018/blob/master/homeworks/CE88_HW4.pdf)
 
