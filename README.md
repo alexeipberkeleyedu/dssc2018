@@ -47,3 +47,14 @@
 
 [Homework 4](https://github.com/alexeipberkeleyedu/dssc2018/blob/master/homeworks/CE88_HW4.pdf)
 
+
+### October 8
+- Concepts of choice modeling
+- Environmental impact of travel choices
+
+[Lectures 9&10](https://github.com/alexeipberkeleyedu/dssc2018/blob/master/lectures/CE88_Lecture_9&10.pdf)
+
+[Datahub Minilab 5 - Mode choice and VMT](http://datahub.berkeley.edu/user-redirect/interact?account=alexeipberkeleyedu&repo=dssc2018&branch=master&path=minilabs/minilab5/minilab5_exploringTAZdata.ipynb)
+
+[Homework 5](https://github.com/alexeipberkeleyedu/dssc2018/blob/master/homeworks/CE88_HW5.pdf)
+
