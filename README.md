@@ -58,3 +58,13 @@
 
 [Homework 5](https://github.com/alexeipberkeleyedu/dssc2018/blob/master/homeworks/CE88_HW5.pdf)
 
+
+### October 15
+- Exploratory data analysis
+- How to specify a model
+
+[Lectures 11&12](https://github.com/alexeipberkeleyedu/dssc2018/blob/master/lectures/CE88_Lecture_11&12.pdf)
+
+[Datahub Minilab 6 - Mode choice data exploration](http://datahub.berkeley.edu/user-redirect/interact?account=alexeipberkeleyedu&repo=dssc2018&branch=master&path=minilabs/minilab6/minilab6_transportation_forecasting.ipynb)
+
+[No Homework](https://github.com/alexeipberkeleyedu/dssc2018/blob/master/homeworks/)
