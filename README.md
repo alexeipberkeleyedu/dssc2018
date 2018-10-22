@@ -68,3 +68,10 @@
 [Datahub Minilab 6 - Mode choice data exploration](http://datahub.berkeley.edu/user-redirect/interact?account=alexeipberkeleyedu&repo=dssc2018&branch=master&path=minilabs/minilab6/minilab6_transportation_forecasting.ipynb)
 
 [No Homework](https://github.com/alexeipberkeleyedu/dssc2018/blob/master/homeworks/)
+
+### October 22
+- Making predicitons
+
+[Datahub Minilab 7 - Nearest neighbor mode choice](http://datahub.berkeley.edu/user-redirect/interact?account=alexeipberkeleyedu&repo=dssc2018&branch=master&path=minilabs/minilab7/minilab7_transportation_forecasting_knn.ipynb)
+
+[Homework 7](https://github.com/alexeipberkeleyedu/dssc2018/blob/master/homeworks/CE88_HW7.pdf)
