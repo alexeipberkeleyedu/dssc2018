@@ -74,7 +74,7 @@
 
 [Lectures 13&14](https://github.com/alexeipberkeleyedu/dssc2018/blob/master/lectures/CE88_Lecture_13%2614.pdf)
 
-[Datahub Minilab 7 - Nearest neighbor mode choice](http://datahub.berkeley.edu/user-redirect/interact?account=alexeipberkeleyedu&repo=dssc2018&branch=master&path=minilabs/minilab7/minilab7_transportation_forecasting_knn.ipynb) and [solution](http://datahub.berkeley.edu/user-redirect/interact?account=alexeipberkeleyedu&repo=dssc2018&branch=master&path=minilabs/minilab7/minilab7_transportation_forecasting_knn_CA_Solution.ipynb)
+[Datahub Minilab 7 - Nearest neighbor mode choice](http://datahub.berkeley.edu/user-redirect/interact?account=alexeipberkeleyedu&repo=dssc2018&branch=master&path=minilabs/minilab7/minilab7_transportation_forecasting_knn.ipynb) and [solutions](http://datahub.berkeley.edu/user-redirect/interact?account=alexeipberkeleyedu&repo=dssc2018&branch=master&path=minilabs/minilab7/minilab7_transportation_forecasting_knn_CA_Solution.ipynb)
 
 
 [Homework 7](https://github.com/alexeipberkeleyedu/dssc2018/blob/master/homeworks/CE88_HW7.pdf)
