@@ -78,3 +78,16 @@
 
 
 [Homework 7](https://github.com/alexeipberkeleyedu/dssc2018/blob/master/homeworks/CE88_HW7.pdf)
+
+
+### October 29
+- Confidence intervals
+- Uncertainty in predictions
+
+[Lecture 15&16](https://github.com/alexeipberkeleyedu/dssc2018/blob/master/lectures/CE88_Lecture_15%26Midterm.pdf)
+
+[Datahub Minilab 8 - CI and uncertainty](http://datahub.berkeley.edu/user-redirect/interact?account=alexeipberkeleyedu&repo=dssc2018&branch=master&path=minilabs/minilab8/minilab8_uncertainty_in_predictions.ipynb)
+
+[No Homework](https://github.com/alexeipberkeleyedu/dssc2018/blob/master/homeworks/)
+
+N.B. Midterm to be published shortly after after Minilab 8 submission deadline.
