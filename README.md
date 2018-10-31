@@ -90,4 +90,10 @@
 
 [No Homework](https://github.com/alexeipberkeleyedu/dssc2018/blob/master/homeworks/)
 
-N.B. Midterm to be published shortly after.
+### Midterm
+
+[Description](https://github.com/alexeipberkeleyedu/dssc2018/blob/master/midterm/UberMidterm_CE88_2018.pdf)
+
+[Data and a starter notebook](http://datahub.berkeley.edu/user-redirect/interact?account=alexeipberkeleyedu&repo=dssc2018&branch=master&path=midterm/uber_midterm_starter.ipynb)
+
+Follow Piazza announcements for a Kaggle submissions link, but you can start working on the dataset right now!
