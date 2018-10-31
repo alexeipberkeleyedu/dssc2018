@@ -96,4 +96,5 @@
 
 [Data and a starter notebook](http://datahub.berkeley.edu/user-redirect/interact?account=alexeipberkeleyedu&repo=dssc2018&branch=master&path=midterm/uber_midterm_starter.ipynb)
 
-Follow Piazza announcements for a Kaggle submissions link, but you can start working on the dataset right now!
+Follow Piazza announcements: a Kaggle submissions link will be posted soon, 
+but you can start working on the dataset right now!
