@@ -78,3 +78,23 @@
 
 
 [Homework 7](https://github.com/alexeipberkeleyedu/dssc2018/blob/master/homeworks/CE88_HW7.pdf)
+
+
+### October 29
+- Confidence intervals
+- Uncertainty in predictions
+
+[Lecture 15&16](https://github.com/alexeipberkeleyedu/dssc2018/blob/master/lectures/CE88_Lecture_15%26Midterm.pdf)
+
+[Datahub Minilab 8 - CI and uncertainty](http://datahub.berkeley.edu/user-redirect/interact?account=alexeipberkeleyedu&repo=dssc2018&branch=master&path=minilabs/minilab8/minilab8_uncertainty_in_predictions.ipynb) (no submission required)
+
+[No Homework](https://github.com/alexeipberkeleyedu/dssc2018/blob/master/homeworks/)
+
+### Midterm
+
+[Description](https://github.com/alexeipberkeleyedu/dssc2018/blob/master/midterm/UberMidterm_CE88_2018.pdf)
+
+[Data and a starter notebook](http://datahub.berkeley.edu/user-redirect/interact?account=alexeipberkeleyedu&repo=dssc2018&branch=master&path=midterm/uber_midterm_starter.ipynb)
+
+Follow Piazza announcements: a Kaggle submissions link will be posted soon, 
+but you can start working on the dataset right now!
