@@ -98,3 +98,10 @@
 
 Follow Piazza announcements: a Kaggle submissions link will be posted soon, 
 but you can start working on the dataset right now!
+
+### November 5 - Midterm Hints!
+
+The following minilab further helps you get started with the midterm. Submission is not required.
+
+[Taxi data minilab](http://datahub.berkeley.edu/user-redirect/interact?account=alexeipberkeleyedu&repo=dssc2018&branch=master&path=minilabs/minilab9/minilab9_linear_regression_trip_duration.ipynb)
+
