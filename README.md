@@ -105,3 +105,13 @@ The following minilab further helps you get started with the midterm. Submission
 
 [Taxi data minilab](http://datahub.berkeley.edu/user-redirect/interact?account=alexeipberkeleyedu&repo=dssc2018&branch=master&path=minilabs/minilab9/minilab9_linear_regression_trip_duration.ipynb)
 
+
+### November 26
+- Energy, renewables, demand and supply
+- Cluster analysis
+
+[Lecture](https://github.com/alexeipberkeleyedu/dssc2018/blob/master/lectures/CE88_Lecture_Last_One_2018.pdf)
+
+[Datahub Minilab 11 - Energy demand and supply](http://datahub.berkeley.edu/user-redirect/interact?account=alexeipberkeleyedu&repo=dssc2018&branch=master&path=minilabs/minilab11/minilab11_solutions.ipynb) (submission required !)
+
+[Datahub Minilab 12 - Cluster analysis of EVs charging](http://datahub.berkeley.edu/user-redirect/interact?account=alexeipberkeleyedu&repo=dssc2018&branch=master&path=minilabs/minilab12/minilab12_EV_clustering.ipynb) (submit for a bonus of 2 points!)
